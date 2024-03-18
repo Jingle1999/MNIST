@@ -1,0 +1,15 @@
+opencv-python-headless==4.5.3.56
+matplotlib
+numpy
+pillow==7.0.0
+bokeh==2.1.1
+torch
+torchvision
+tqdm==4.63.0
+ipywidgets==7.7.0
+livelossplot==0.5.4
+pytest
+pandas
+seaborn==0.11.2
+jupyter==1.0.0
+ipykernel==4.10.0
